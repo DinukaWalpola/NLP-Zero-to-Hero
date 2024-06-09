@@ -2,4 +2,7 @@
 .venv
 venv/
 
+# Directories
+data/
+
 .DS_Store
